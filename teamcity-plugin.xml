@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:noNamespaceSchemaLocation="urn:shemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>CampfireNotifier</name>
+    <display-name>Campfire Notifier</display-name>
+    <version>@version@</version>
+    <description>Notify campfire</description>
+
+    <vendor>
+      <name>Adam Pearson</name>
+      <url>https://github.com/radamant/Team-City-Campfire-Notifier-Plugin.git</url>
+    </vendor>
+  </info>
+</teamcity-plugin>
